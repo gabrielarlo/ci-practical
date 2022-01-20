@@ -1,0 +1,1 @@
+<img class="img-fluid" src="https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg" alt="Sorting">
